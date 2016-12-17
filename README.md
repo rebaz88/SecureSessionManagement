@@ -24,3 +24,7 @@ Implementation of Secure Session Management using sailsjs
   - Password: 123456
 
 - The session expire time is 20 seconds, after that time users have to login again in order to perform transactions
+
+## Contributors
+- Rebaz Saleh
+- Wajdi Aljedani
